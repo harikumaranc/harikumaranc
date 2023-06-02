@@ -1,5 +1,5 @@
 <img align="center" src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=1060&t=st=1685726043~exp=1685726643~hmac=a2f137febf7201fc99629a12969b05899ebcb4c0c0ec7adc7e18be66425c3efa" alt="hlo" height="300" width="100%">
-<img align="right" src="https://www.bing.com/th/id/OGC.fc71635c7f1b09ed30413f59bb749582?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f20368%2fscreenshots%2f4012238%2fdata_scene.gif&ehk=ECXtJw2tY6eCGzPJwDsu%2f9t8tB%2fvV%2bIUsxiCEq0QX84%3d" alt="hiiiii" width="350" height="300">
+<img align="right" src="https://www.bing.com/th/id/OGC.fc71635c7f1b09ed30413f59bb749582?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f20368%2fscreenshots%2f4012238%2fdata_scene.gif&ehk=ECXtJw2tY6eCGzPJwDsu%2f9t8tB%2fvV%2bIUsxiCEq0QX84%3d" alt="hiiiii" width="320" height="300">
 
 <h1 align="center">Hello buddy💕, Myself Harikumaran😎</h1>
 <h3 align="center">Thank you for visiting my profile✌️</h3>
@@ -25,7 +25,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="40"/> </a> </p><br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harikumaranc&" alt="harikumaranc"  height="200" width="350" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harikumaranc&" alt="harikumaranc"  height="250" width="350" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harikumaranc&show_icons=true&theme=tokyonight)
 
