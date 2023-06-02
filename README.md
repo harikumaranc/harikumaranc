@@ -25,7 +25,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="40"/> </a> </p><br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harikumaranc&" alt="harikumaranc"  height="300" width="350" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harikumaranc&" alt="harikumaranc"  height="200" width="350" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harikumaranc&show_icons=true&theme=tokyonight)
 
