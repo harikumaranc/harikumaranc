@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **tensorflow**
 
-- 🤝 I’m looking for help with **harish**
-
 - 📫 How to reach me **kumaranhari368@gmail.com**
 
 
