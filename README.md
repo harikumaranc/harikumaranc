@@ -1,7 +1,7 @@
 <img align="center" src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=1060&t=st=1685726043~exp=1685726643~hmac=a2f137febf7201fc99629a12969b05899ebcb4c0c0ec7adc7e18be66425c3efa" alt="hlo" height="300" width="100%">
 <img align="right" src="https://www.bing.com/th/id/OGC.fc71635c7f1b09ed30413f59bb749582?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f20368%2fscreenshots%2f4012238%2fdata_scene.gif&ehk=ECXtJw2tY6eCGzPJwDsu%2f9t8tB%2fvV%2bIUsxiCEq0QX84%3d" alt="hiiiii" width="320" height="300">
 
-<h1 align="center">Hello buddy💕, Myself Harikumaran😎</h1>
+<h1 align="center">Hello buddy💕, I am Harikumaran😎</h1>
 <h3 align="center">Thank you for visiting my profile✌️</h3>
 <h5 align="center">Eat🍴_Code💻_Sleep😴_Repeat🔁</h5>
 
